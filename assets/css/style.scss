@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$highlight-color: #008080;
+$border-light: rgba($highlight-color, 0.12);
+$border-dark: rgba($highlight-color, 0.88);
+
+.markdown-body {
+  h1 {
+    border-bottom: none;
+  }
+
+  .site-description {
+    border-bottom: solid 1px $border-light;
+    padding-bottom: 1rem;
+  }
+
+  a {
+   color: $highlight-color;
+  }
+
+  article {
+    border-bottom: solid 1px $border-light;
+  }
+}
