@@ -8,13 +8,31 @@ $border-light: rgba($highlight-color, 0.12);
 $border-dark: rgba($highlight-color, 0.88);
 
 .markdown-body {
+  &>*:first-child {
+    margin-bottom: 0;
+  }
+
   h1 {
     border-bottom: none;
   }
 
-  .site-description {
-    border-bottom: solid 1px $border-light;
-    padding-bottom: 1rem;
+  .nav {
+    padding-left: 0;
+    margin-bottom: 0;
+
+    li {
+      list-style: none;
+      display: inline;
+      padding: 0.2rem 0.5rem;
+
+      &.active, &:hover {
+        border-bottom: solid 5px $border-dark;
+      }
+
+      a:hover {
+        text-decoration: none;
+      }
+    }
   }
 
   a {
@@ -26,5 +44,8 @@ $border-dark: rgba($highlight-color, 0.88);
   }
 
   footer {
+    font-size: small;
+    text-align: center;
+    padding-top: 1rem;
   }
 }
