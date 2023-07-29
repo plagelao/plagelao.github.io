@@ -6,9 +6,11 @@ This site is dedicated to your growth and learning in the exciting field of soft
 Let's learn, grow and create amazing things together.
 </p>
 
+{% assign sorted = site.articles | sort: 'date' | reverse  %}
+
 <section class="latest">
   <h2> Latest article </h2>
-  {% for article in site.articles limit:1 %}
+  {% for article in sorted limit:1 %}
     <article>
       <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
       {{ article.excerpt }}
@@ -22,7 +24,7 @@ Let's learn, grow and create amazing things together.
   <section class="recent">
       <h2> Recent articles </h2>
     <table>
-      {% for article in site.articles offset:1 limit: 5 %}
+      {% for article in sorted offset:1 limit:5 %}
         <tr>
           <td class="date">
             <p><small><strong>{{ article.date | date: "%B %e, %Y" }}</strong></small></p>

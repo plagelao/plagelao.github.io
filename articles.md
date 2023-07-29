@@ -3,7 +3,8 @@ layout: page
 title: Articles
 permalink: /articles/
 ---
-{% for article in site.articles %}
+{% assign sorted = site.articles | sort: 'date' | reverse  %}
+{% for article in sorted %}
   <article>
     <h3><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a></h3>
     {{ article.excerpt }}
