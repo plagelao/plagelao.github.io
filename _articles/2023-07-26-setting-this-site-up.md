@@ -25,7 +25,6 @@ Following the pattern of the `index.md` that GitHub Pages explains in their docu
 ### How to list the posts: The wrong way
 
 <aside>
-  <p>Most of the things in this article will assume that your know how to set up a site with GitHub Pages. Please refer to my previous article if you need a guide on how to do it.</p>
   <p>GitHub Pages uses Jekyll under the hood, and Jekyll uses Liquid as its templating language. This article is not going to explain them, but you can find more information about them here:</p>
   <ul>
     <li><a href="https://jekyllrb.com/docs/">Jekyll documentation</a></li>
