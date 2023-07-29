@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 $highlight-color: #008080;
+$color: #24292e;
 $border-light: rgba($highlight-color, 0.12);
 $border-dark: rgba($highlight-color, 0.88);
 
@@ -18,7 +19,7 @@ $border-dark: rgba($highlight-color, 0.88);
 
   .nav {
     padding-left: 0;
-    margin-bottom: 0;
+    margin-bottom: 2rem;
 
     li {
       list-style: none;

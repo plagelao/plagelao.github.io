@@ -1,2 +1,6 @@
 title: Alberto Peña Abril
 lang: en-GB
+collections:
+  articles:
+    relative_directory: _articles
+    output: true

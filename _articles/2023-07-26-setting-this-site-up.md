@@ -1,6 +1,7 @@
 ---
 title: Setting this site up
 excerpt_separator: <!--more-->
+layout: post
 ---
 When you have things to say, you need a blog. Now more than ever.
 
