@@ -6,6 +6,8 @@
 $highlight-color: #008080;
 $border-light: rgba($highlight-color, 0.12);
 $border-dark: rgba($highlight-color, 0.88);
+$aside-color: $gray-400;
+$aside-link-color: rgba($highlight-color, 0.7);
 
 .markdown-body {
   &>*:first-child {
@@ -14,6 +16,10 @@ $border-dark: rgba($highlight-color, 0.88);
 
   h1 {
     border-bottom: none;
+  }
+
+  img {
+    border-bottom: solid 5px $border-light;
   }
 
   table {
@@ -73,6 +79,26 @@ $border-dark: rgba($highlight-color, 0.88);
     text-align: center;
     padding-top: 1rem;
   }
+
+  aside {
+    width: 100%;
+    padding-left: 0.5rem;
+    box-shadow: inset 5px 0 5px -5px $border-dark;
+    font-style: italic;
+    color: $aside-color;
+
+    li {
+      list-style: none;
+    }
+
+    a {
+      color: $aside-link-color;
+    }
+  }
+
+  aside > p {
+    margin: 0.5rem;
+  }
 }
 
 $breakpoint-tablet: 768px;
@@ -86,6 +112,12 @@ $breakpoint-tablet: 768px;
       .title {
         width: 80%;
       }
+    }
+
+    aside {
+      width: 40%;
+      float: right;
+      margin-left: 0.5rem;
     }
   }
 }

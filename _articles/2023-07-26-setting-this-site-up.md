@@ -3,12 +3,14 @@ title: Setting this site up
 excerpt_separator: <!--more-->
 layout: post
 ---
-When you have things to say, you need a blog. Now more than ever.
+Having a personal site is a great way to keep learning and growing. When you write about different things, you become more knowledgeable. It also helps you get better at expressing yourself through writing, and it's a lot of fun too.  Writing on your personal site encourages you to think about yourself and your goals, which can be really helpful for your career.
+
+Let's get on with it!
 
 <!--more-->
 ### Why GitHub Pages?
 
-Many developers already have a GitHub account, and GitHub Pages has been around for ages. Many sites use it and it seems like a good and simple option.
+Many developers already have a GitHub account, and GitHub Pages has been around for a long time ([since 2008](https://en.wikipedia.org/wiki/GitHub)). Many sites use it and it seems like a good option.
 
 Whenever you start with something new, you need to start by following the documentation. In this case, the documentation was the GitHub guide to create the site. Turns out that the documentation is clear and creating the basic site was straightforward. It took a couple of minutes.
 
@@ -21,6 +23,15 @@ The next step was understanding how pushing a new post works. That was the first
 Following the pattern of the `index.md` that GitHub Pages explains in their documentation, the next step was to create a new file `my-new-post.md`. After pushing it, the post wasn't visible in the home page, but it existed in `/my-new-post`. Although it was a step in the right direction, the goal was to display the list of posts in the home page so visitors could find them.
 
 ### How to list the posts: The wrong way
+
+<aside>
+  <p>Most of the things in this article will assume that your know how to set up a site with GitHub Pages. Please refer to my previous article if you need a guide on how to do it.</p>
+  <p>GitHub Pages uses Jekyll under the hood, and Jekyll uses Liquid as its templating language. This article is not going to explain them, but you can find more information about them here:</p>
+  <ul>
+    <li><a href="https://jekyllrb.com/docs/">Jekyll documentation</a></li>
+    <li><a href="https://shopify.github.io/liquid/">Liquid documentation</a></li>
+  </ul>
+</aside>
 
 Clearly, it was a mistake to start assuming things without reading the documentation. This time, it was the Jekyll documentation. It says that depending on how you name your files, Jekyll can infer the publication date and create a URL for that item that contains the date. For example, in the previous step, the name of the post file was `my-new-post.md` and that created the URL `/my-new-post`. What the documentation said is that if you name your file `2023-07-26-my-new-post`, it generates the following URL `/2023/07/26/my-new-post`. It's always useful to have the date of publication of an article, mostly because technical articles are likely to become obsolete in a year or two.
 
