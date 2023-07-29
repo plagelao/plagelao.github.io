@@ -3,4 +3,5 @@ lang: en-GB
 collections:
   articles:
     relative_directory: _articles
+    sort_by: date
     output: true

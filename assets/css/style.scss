@@ -4,7 +4,6 @@
 @import "{{ site.theme }}";
 
 $highlight-color: #008080;
-$color: #24292e;
 $border-light: rgba($highlight-color, 0.12);
 $border-dark: rgba($highlight-color, 0.88);
 
@@ -17,6 +16,18 @@ $border-dark: rgba($highlight-color, 0.88);
     border-bottom: none;
   }
 
+  table {
+    display: table;
+    width: 100%;
+
+    tr, td {
+      border: none;
+
+      p {
+        margin: 0;
+      }
+    }
+  }
   .nav {
     padding-left: 0;
     margin-bottom: 2rem;
@@ -36,17 +47,45 @@ $border-dark: rgba($highlight-color, 0.88);
     }
   }
 
+  .recent {
+    .date {
+      width: 33%;
+    }
+    .title {
+      width: 66%;
+    }
+  }
+
   a {
    color: $highlight-color;
   }
 
   article {
     border-bottom: solid 1px $border-light;
+
+    &:last-child {
+      border-bottom: none;
+    }
   }
 
   footer {
     font-size: small;
     text-align: center;
     padding-top: 1rem;
+  }
+}
+
+$breakpoint-tablet: 768px;
+
+@media (min-width: $breakpoint-tablet) {
+  .markdown-body {
+    .recent {
+      .date {
+        width: 20%;
+      }
+      .title {
+        width: 80%;
+      }
+    }
   }
 }
