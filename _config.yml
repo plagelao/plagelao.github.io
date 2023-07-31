@@ -4,3 +4,6 @@ collections:
   articles:
     relative_directory: _articles
     output: true
+  drafts:
+    relative_directory: _drafts
+    output: true
