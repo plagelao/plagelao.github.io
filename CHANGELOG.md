@@ -1,28 +1,22 @@
-## v2.1.0 (2023-08-07)
+## v1.1.1 (2023-08-14)
+
+### Fix
+
+- **landing**: Move data closer to tile for clarity
+
+## v1.1.0 (2023-08-14)
 
 ### Feat
 
-- **versioning**: Automatic versioning with commitizen
-
-## v2.0.0 (2023-08-06)
-
-### Feat
-
+- **content**: New article about consistency in version control
 - **content**: New article about writing tools
-
-## v1.1.1 (2023-08-06)
+- **about**: About section
 
 ### Fix
 
 - **content**: Corrections and drafts
 
-## v1.1.0 (2023-08-06)
-
-### Feat
-
-- **about**: About section
-
-## v1.0.0 (2023-08-06)
+## v1.0.0 (2023-08-14)
 
 ### Feat
 
