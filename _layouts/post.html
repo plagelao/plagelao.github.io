@@ -2,5 +2,12 @@
 layout: default
 ---
 <h2> {{ page.title }} </h2>
+<div class="tags">
+{% for tag in page.tags %}
+<a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
+{% endfor %}
+</div>
+<p class="date"><small><strong>{{ page.date | date: "%B %Y" }}</strong></small></p>
+{{ post.excerpt }}
 
 {{ content }}

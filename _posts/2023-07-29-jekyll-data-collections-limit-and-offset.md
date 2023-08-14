@@ -2,8 +2,8 @@
 title: Customizing the site
 excerpt_separator: <!--more-->
 layout: post
-category: Tutorials
-tag: [Jekyll, Github Pages]
+categories: [Articles, Tutorials]
+tags: [Jekyll, Github Pages]
 tools:
   - label: Jekyll
     link: https://jekyllrb.com/docs/
