@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="post">
+  <h3>On {{ page.tag }}</h3>
+  <ul>
+    {% for tag in site.tags %}
+      {% if tag[0] == page.tag %}
+        {% for post in tag[1] %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            ({{ post.date |  date: "%B %Y" }})<br>
+          </li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

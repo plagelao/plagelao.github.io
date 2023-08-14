@@ -1,9 +1,12 @@
 title: Alberto Peña Abril
 lang: en-GB
+
+# Build settings
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+
 collections:
-  articles:
-    relative_directory: _articles
-    output: true
   drafts:
     relative_directory: _drafts
     output: true

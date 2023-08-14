@@ -14,7 +14,7 @@ $aside-link-color: rgba($highlight-color, 0.7);
     margin-bottom: 0;
   }
 
-  h1 {
+  h1, h2 {
     border-bottom: none;
   }
 
@@ -98,6 +98,27 @@ $aside-link-color: rgba($highlight-color, 0.7);
 
   aside > p {
     margin: 0.5rem;
+  }
+
+  .tags {
+    margin-top: -.5rem;
+    padding-bottom: 1rem;
+  }
+
+  .tag {
+    font-size: .8rem;
+    background-color: $border-light;
+    padding: .25rem .5rem;
+
+    &:hover {
+      text-decoration: none;
+      background-color: $highlight-color;
+      color: white;
+    }
+  }
+
+  .date {
+    padding-bottom: .5rem;
   }
 }
 

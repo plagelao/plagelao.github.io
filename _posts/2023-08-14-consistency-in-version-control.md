@@ -1,8 +1,8 @@
 ---
 title: Consistency in version control
 excerpt_separator: <!--more-->
-layout: postt
-category: Explanation
+layout: post
+categories: [Articles, Explanation]
 tags: [clarity, Git, versioning]
 tools:
   - label: conventional-changelog
