@@ -13,8 +13,8 @@ Let's learn, grow and create amazing things together.
   {% for article in sorted limit:1 %}
     <article>
       <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-      {{ article.excerpt }}
       <p><small><strong>{{ article.date | date: "%B %e, %Y" }}</strong></small></p>
+      {{ article.excerpt }}
     </article>
   {% endfor %}
 </section>
