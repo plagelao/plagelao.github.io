@@ -2,7 +2,7 @@
 title: Setting this site up
 excerpt_separator: <!--more-->
 layout: post
-categories: [Articles, Tutorials]
+categories: [Articles, Software development, Jekyll, Tutorials]
 tags: [Jekyll, Github Pages]
 tools:
   - label: Jekyll

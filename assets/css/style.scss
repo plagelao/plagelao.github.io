@@ -8,6 +8,7 @@ $border-light: rgba($highlight-color, 0.12);
 $border-dark: rgba($highlight-color, 0.88);
 $aside-color: $gray-400;
 $aside-link-color: rgba($highlight-color, 0.7);
+$aside-background-color: white;
 
 .markdown-body {
   &>*:first-child {
@@ -86,6 +87,7 @@ $aside-link-color: rgba($highlight-color, 0.7);
     box-shadow: inset 5px 0 5px -5px $border-dark;
     font-style: italic;
     color: $aside-color;
+    background-color: $aside-background-color;
 
     li {
       list-style: none;

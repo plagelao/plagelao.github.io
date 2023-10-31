@@ -3,22 +3,31 @@ layout: page
 title: Articles
 permalink: /articles/
 ---
-{% assign sorted = site.posts | sort: 'date' | reverse  %}
+{% assign sorted = site.posts | where: 'draft', false | sort: 'date' | reverse  %}
 {% for post in sorted %}
   <article>
-    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    <h3>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h3>
     <div class="tags">
-    {% for tag in post.tags %}
-    <a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
-    {% endfor %}
+      {% for tag in post.tags %}
+        <a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
     </div>
     <p class="date"><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
     {{ post.excerpt }}
   </article>
 {% endfor %}
 
-
 <!--
+{% for category in site.categories %}
+  <h4>{{ category[0] }}</h4>
+  {% assign articles = category[1] | where: "draft", false %}
+  {% for post in articles %}
+  <a href="{{ post.url }}"> {{ post.title }} </a>
+  {% endfor %}
+{% endfor %}
+
 {% for tag in site.tags %}
   <h4>On {{ tag[0] }}</h4>
   <ul>
