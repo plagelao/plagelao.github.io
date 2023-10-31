@@ -2,7 +2,7 @@
 title: Consistency in version control
 excerpt_separator: <!--more-->
 layout: post
-categories: [Articles, Explanation]
+categories: [Articles, Software development, Version control, Explanations]
 tags: [clarity, Git, versioning]
 tools:
   - label: conventional-changelog

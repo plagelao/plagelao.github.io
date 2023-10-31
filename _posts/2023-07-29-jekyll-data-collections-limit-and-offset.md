@@ -2,7 +2,7 @@
 title: Customizing the site
 excerpt_separator: <!--more-->
 layout: post
-categories: [Articles, Tutorials]
+categories: [Articles, Software development, Jekyll, Tutorials]
 tags: [Jekyll, Github Pages]
 tools:
   - label: Jekyll

@@ -2,7 +2,7 @@
 title: Writing in your second language is easier with help
 excerpt_separator: <!--more-->
 layout: post
-categories: [Articles, Reference]
+categories: [Articles, Writing, Reference]
 tags: [writing better, communication]
 tools:
   - label: Alex
