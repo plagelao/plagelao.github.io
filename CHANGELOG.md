@@ -1,7 +1,8 @@
-## v1.2.0 (2023-10-31)
+## v1.3.0 (2023-11-05)
 
 ### Feat
 
+- **content**: New article about categorisation and tagging
 - Tags and categories
 
 ### Fix
