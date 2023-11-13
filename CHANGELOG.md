@@ -1,12 +1,14 @@
-## v1.3.0 (2023-11-05)
+## v1.4.0 (2023-11-13)
 
 ### Feat
 
+- **content**: New article about search
 - **content**: New article about categorisation and tagging
 - Tags and categories
 
 ### Fix
 
+- **content**: Fix post reference
 - **landing**: Move data closer to tile for clarity
 
 ## v1.1.0 (2023-08-14)
