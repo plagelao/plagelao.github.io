@@ -10,7 +10,7 @@ tools:
   - label: Github Pages
     link: https://pages.github.com/
 ---
-As discussed in the [previous post]({% post_url 2023-11-03-organising-content %}), organising content is not a trivial task, and making a decision on how to tackle it is just the beginning. Once you've settled on an approach, it's time to roll up your sleeves and put that solution into action.
+As discussed in the [previous post]({% post_url 2023-11-05-organising-content %}), organising content is not a trivial task, and making a decision on how to tackle it is just the beginning. Once you've settled on an approach, it's time to roll up your sleeves and put that solution into action.
 
 This article serves as a guide on creating a category and tagging system in Jekyll. While it does come with a few caveats, this tutorial should provide you with the know-how needed to implement this system effectively.
 
