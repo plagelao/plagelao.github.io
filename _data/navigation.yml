@@ -2,7 +2,5 @@
   label: Home
 - link: /articles/
   label: Articles
-- link: /notes/
-  label: Notes
 - link: /about/
   label: About

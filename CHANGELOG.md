@@ -1,7 +1,8 @@
-## v1.4.0 (2023-11-13)
+## v1.5.0 (2023-11-19)
 
 ### Feat
 
+- **notes**: Micro notes
 - **content**: New article about search
 - **content**: New article about categorisation and tagging
 - Tags and categories
