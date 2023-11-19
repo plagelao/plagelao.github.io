@@ -3,8 +3,8 @@ title: Crawl and index the site with scrapy and zyte
 excerpt_separator: <!--more-->
 layout: post
 draft: true
-category: [Drafts, Software development, Jekyll, Tutorials]
-tag: [clarity, Jekyll]
+categories: [Drafts, Software development, Jekyll, Tutorials]
+tags: [clarity, Jekyll]
 tools:
   - label: Jekyll
     link: https://jekyllrb.com/docs/

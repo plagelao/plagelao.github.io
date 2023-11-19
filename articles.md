@@ -3,7 +3,7 @@ layout: page
 title: Articles
 permalink: /articles/
 ---
-{% assign sorted = site.posts | where: 'draft', false | sort: 'date' | reverse  %}
+{% assign sorted = site.categories['Articles'] | sort: 'date' | reverse  %}
 {% for post in sorted %}
   <article>
     <h3>
@@ -22,7 +22,7 @@ permalink: /articles/
 <!--
 {% for category in site.categories %}
   <h4>{{ category[0] }}</h4>
-  {% assign articles = category[1] | where: "draft", false %}
+  {% assign articles = category[1] %}
   {% for post in articles %}
   <a href="{{ post.url }}"> {{ post.title }} </a>
   {% endfor %}
