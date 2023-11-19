@@ -5,8 +5,3 @@ lang: en-GB
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
-
-collections:
-  drafts:
-    relative_directory: _drafts
-    output: true

@@ -2,8 +2,8 @@
 title: Search
 excerpt_separator: <!--more-->
 layout: post
-category: [Articles, Software development, Search, Explanations]
-tag: [clarity, search, diátaxis]
+categories: [Articles, Software development, Search, Explanations]
+tags: [clarity, search, diátaxis]
 tools:
   - label: Diátaxis
     link: https://diataxis.fr

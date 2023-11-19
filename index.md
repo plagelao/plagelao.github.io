@@ -6,11 +6,11 @@ This site is dedicated to your growth and learning in the exciting field of soft
 Let's learn, grow and create amazing things together.
 </p>
 
-{% assign sorted = site.posts | sort: 'date' | reverse  %}
+{% assign sorted_articles = site.categories['Articles'] | sort: 'date' | reverse  %}
 
 <section class="latest">
   <h2> Latest article </h2>
-  {% for post in sorted limit:1 %}
+  {% for post in sorted_articles limit:1 %}
     <article>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="tags">
@@ -24,21 +24,36 @@ Let's learn, grow and create amazing things together.
   {% endfor %}
 </section>
 
-{% assign articles_count = site.posts | size %}
-{% if articles_count > 1 %}
-  <section class="recent">
-      <h2> Recent articles </h2>
-    <table>
-      {% for post in sorted offset:1 limit:5 %}
-        <tr>
-          <td class="date">
-            <p><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
-          </td>
-          <td class="title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </td>
-        </tr>
-      {% endfor %}
-    </table>
-  </section>
-{% endif %}
+{% assign articles_count = sorted_articles | size %}
+<section class="recent">
+    <h2> Recent articles </h2>
+  <table>
+    {% for post in sorted_articles offset:1 limit:10 %}
+      <tr>
+        <td class="date">
+          <p><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+        </td>
+        <td class="title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
+</section>
+
+{% assign sorted_notes = site.categories['Notes'] | sort: 'date' | reverse  %}
+<section class="recent">
+    <h2> Recent notes </h2>
+  <table>
+    {% for post in sorted_notes limit:10 %}
+      <tr>
+        <td class="date">
+          <p><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+        </td>
+        <td class="title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
+</section>
