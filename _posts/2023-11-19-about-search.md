@@ -14,6 +14,8 @@ For a personal site, it ensures that your audience can quickly access the conten
 
 Whether someone is looking for a specific article, a project you've worked on, or any other information, the search feature simplifies their journey and contributes to a more user-friendly and navigable website.
 
+With that in mind, let’s get on with it!
+
 <!--more-->
 
 Everybody knows Google. Everybody knows search, but search by itself isn't enough. Search is greatly enhanced by the inclusion of facets and sorting options.
