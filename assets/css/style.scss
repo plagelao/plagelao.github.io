@@ -122,6 +122,62 @@ $aside-background-color: white;
   .date {
     padding-bottom: .5rem;
   }
+
+  .algolia-logo {
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    width: 5rem;
+    display: inline-block;
+    vertical-align: sub;
+
+    img {
+      border-bottom: none;
+    }
+  }
+
+  #searchbox {
+    input {
+      width: calc(100% - 3.5rem);
+      margin-right: 1rem;
+    }
+    button {
+      margin-right: .5rem;
+    }
+  }
+  .searchresults {
+    display: grid;
+    grid-template-columns: [first] 15% [second] 85%;
+
+    #facets {
+      grid-column-start: 1;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+
+      .ais-RefinementList-list {
+        margin-left: 0;
+        padding-left: 0;
+      }
+      .ais-RefinementList-checkbox {
+      }
+      .ais-RefinementList-labelText {
+        margin: auto 0.3rem;
+      }
+      .ais-RefinementList-count {
+        &:before {
+          content: '(';
+        }
+        &:after {
+          content: ')';
+        }
+      }
+    }
+    #hits {
+      grid-column-start: 2;
+      .tag {
+        margin-right: .3rem;
+      }
+    }
+  }
 }
 
 $breakpoint-tablet: 768px;

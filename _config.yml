@@ -5,3 +5,7 @@ lang: en-GB
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
+
+collections:
+  demos:
+    output: true
