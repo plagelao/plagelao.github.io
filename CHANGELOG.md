@@ -1,7 +1,8 @@
-## v1.5.0 (2023-11-19)
+## v1.6.0 (2024-02-02)
 
 ### Feat
 
+- **layout**: Encapsulate the main content in an Article tag
 - **notes**: Micro notes
 - **content**: New article about search
 - **content**: New article about categorisation and tagging
