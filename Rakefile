@@ -4,6 +4,7 @@ namespace :tags do
   task :populate do
     Dir["_posts/**/*.md"].each do |file|
       tag_line = File.readlines(file).detect do |line|
+        puts line
         line =~ /tags:/
       end
       YAML.load(tag_line)['tags'].each do |tag|
