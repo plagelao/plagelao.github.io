@@ -1,7 +1,8 @@
-## v1.6.0 (2024-02-02)
+## v1.7.0 (2024-02-10)
 
 ### Feat
 
+- **search**: Integrate search
 - **layout**: Encapsulate the main content in an Article tag
 - **notes**: Micro notes
 - **content**: New article about search
