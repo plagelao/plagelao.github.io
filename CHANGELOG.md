@@ -1,7 +1,8 @@
-## v1.8.0 (2024-02-10)
+## v1.9.0 (2024-02-11)
 
 ### Feat
 
+- **notes**: Small note on how to change the encoding in a ruby image
 - **tags**: Populate new tags
 - **search**: Integrate search
 - **layout**: Encapsulate the main content in an Article tag
