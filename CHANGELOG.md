@@ -1,7 +1,8 @@
-## v1.9.0 (2024-02-11)
+## v1.10.0 (2024-02-18)
 
 ### Feat
 
+- **content**: New article on Feature Toggles
 - **notes**: Small note on how to change the encoding in a ruby image
 - **tags**: Populate new tags
 - **search**: Integrate search
