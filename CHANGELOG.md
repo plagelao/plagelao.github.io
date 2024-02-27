@@ -1,7 +1,8 @@
-## v1.10.0 (2024-02-18)
+## v1.11.0 (2024-02-27)
 
 ### Feat
 
+- **content**: New article on observability
 - **content**: New article on Feature Toggles
 - **notes**: Small note on how to change the encoding in a ruby image
 - **tags**: Populate new tags
