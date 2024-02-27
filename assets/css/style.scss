@@ -178,6 +178,17 @@ $aside-background-color: white;
       }
     }
   }
+  .quote_author {
+    text-align: right;
+    color: #6a737d;
+    margin-top: -1rem;
+    &:before {
+      content: open-quote;
+    }
+    a {
+      color: #6a737d;
+    }
+  }
 }
 
 $breakpoint-tablet: 768px;
