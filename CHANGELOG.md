@@ -1,7 +1,8 @@
-## v1.11.0 (2024-02-27)
+## v1.12.0 (2024-03-05)
 
 ### Feat
 
+- **content**: New article on focusing your team
 - **content**: New article on observability
 - **content**: New article on Feature Toggles
 - **notes**: Small note on how to change the encoding in a ruby image
