@@ -5,8 +5,6 @@ layout: post
 categories: [Articles, Strategic thinking, Alignment, Explanation]
 tags: [strategic thinking]
 tools:
-  - label: not sure
-    link: https://something.here
 ---
 
 Focusing a software development team is about providing direction, clarity, and purpose. It optimizes resources, improves efficiency, and fosters a positive and productive working environment, ultimately contributing to the success of the team and the projects they undertake.
