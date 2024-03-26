@@ -1,7 +1,8 @@
-## v1.13.0 (2024-03-08)
+## v1.14.0 (2024-03-26)
 
 ### Feat
 
+- **content**: New article on how to generate impactful mission statements
 - **content**: New article on GitLab pipelines
 - **content**: New article on focusing your team
 - **content**: New article on observability
