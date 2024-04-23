@@ -1,7 +1,8 @@
-## v1.14.0 (2024-03-26)
+## v1.15.0 (2024-04-23)
 
 ### Feat
 
+- **content**: New article on how to define your strategy
 - **content**: New article on how to generate impactful mission statements
 - **content**: New article on GitLab pipelines
 - **content**: New article on focusing your team
