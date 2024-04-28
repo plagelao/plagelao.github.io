@@ -1,7 +1,8 @@
-## v1.15.0 (2024-04-23)
+## v1.16.0 (2024-04-28)
 
 ### Feat
 
+- **content**: New article on avoiding distractions
 - **content**: New article on how to define your strategy
 - **content**: New article on how to generate impactful mission statements
 - **content**: New article on GitLab pipelines
