@@ -1,7 +1,8 @@
-## v1.16.0 (2024-04-28)
+## v1.17.0 (2024-09-04)
 
 ### Feat
 
+- **content**: New article about ALB and node.js 502 errors
 - **content**: New article on avoiding distractions
 - **content**: New article on how to define your strategy
 - **content**: New article on how to generate impactful mission statements
