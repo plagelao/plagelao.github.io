@@ -1,7 +1,8 @@
-## v1.17.0 (2024-09-04)
+## v1.18.0 (2024-09-06)
 
 ### Feat
 
+- **content**: New article on coherent actions
 - **content**: New article about ALB and node.js 502 errors
 - **content**: New article on avoiding distractions
 - **content**: New article on how to define your strategy
