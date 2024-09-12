@@ -1,7 +1,8 @@
-## v1.18.0 (2024-09-06)
+## v1.19.0 (2024-09-12)
 
 ### Feat
 
+- **content**: New article on docker compose
 - **content**: New article on coherent actions
 - **content**: New article about ALB and node.js 502 errors
 - **content**: New article on avoiding distractions
