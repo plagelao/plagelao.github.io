@@ -1,7 +1,8 @@
-## v1.19.0 (2024-09-12)
+## v1.20.0 (2024-09-22)
 
 ### Feat
 
+- **content**: New articles on outcomes over KPIs
 - **content**: New article on docker compose
 - **content**: New article on coherent actions
 - **content**: New article about ALB and node.js 502 errors
