@@ -1,7 +1,8 @@
-## v1.20.0 (2024-09-22)
+## v1.21.0 (2024-09-26)
 
 ### Feat
 
+- **content**: New article on cache policies
 - **content**: New articles on outcomes over KPIs
 - **content**: New article on docker compose
 - **content**: New article on coherent actions
