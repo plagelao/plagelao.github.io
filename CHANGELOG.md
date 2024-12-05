@@ -1,7 +1,8 @@
-## v1.21.0 (2024-09-26)
+## v1.22.0 (2024-12-05)
 
 ### Feat
 
+- **content**: New article on deadlines and burnout
 - **content**: New article on cache policies
 - **content**: New articles on outcomes over KPIs
 - **content**: New article on docker compose
