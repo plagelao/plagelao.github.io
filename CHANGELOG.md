@@ -1,7 +1,8 @@
-## v1.23.0 (2024-12-16)
+## v1.24.0 (2025-01-14)
 
 ### Feat
 
+- **content**: New article on following through
 - **content**: New article on becoming for effective
 - **content**: New article on deadlines and burnout
 - **content**: New article on cache policies
