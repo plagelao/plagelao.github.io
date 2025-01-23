@@ -2,15 +2,34 @@
 title: Changing your organisation culture
 excerpt_separator: <!--more-->
 layout: post
-categories: [Drafts, Software development, Culture, Explanations]
+categories: [Articles, Software development, Culture, Explanations]
 tags: [clarity, strategy, culture]
 tools:
   - label: something
     link: https://something
 ---
 
+Your organisation culture is not a set of values in your wall. Your actions, and your colleagues actions, define your organisation culture. It's not what you think you are, it's what you do. It's not a list of values, it's the repeating actions.
 
+Repetition defines culture. The little traditions are what your culture is about. If your teams are always firefighting, you have a fire-fighting culture. You might not like it, it might not reflect what you want to project, but that's what it is. If you spend your days in meetings, your have an over-meeting culture.
 
+You need to actively work on your day to day actions to actively define your culture. Talking about what you want is not enough, you need to act on it. In fact, acting on it should be the starting point, the speech should come later.
+
+And you have to be consistent. You have to make your culture a set of traditions. Things that you have been doing for a long time that are just the way things are. This implies that cultural change is difficult and time consuming by definition. **In order to change your culture, you have to create a new tradition, abandon an old one, or both**.
+
+![Your excitement about a change decreases as buy-in increases](/assets/culture-change/0-challenge.jpeg)
+
+I need to talk about the danger zone, maybe? It's the part where you are getting bored of repeating the message, but you ahve to do it because you need more buy-in. This is a critical moment, and you need to have the system to take you to the end of this difficult part, when you have enough traction so you don't need to be always "selling".
+
+![Your excitement about a change decreases as buy-in increases](/assets/culture-change/1-danger.jpeg)
+
+The danger zone is where you are most likely to abandon your change before people are used to it, making it unsuccessful. It's difficult because you have been at it for a while and you haven't seen a big change yet, so it is easy to get demoralised.
+
+That's where your system can help you. Having a good system that prevents you from abandoning the change before you should can help you to get out of the danger zone.
+
+If you behave like an asshole, you will be part of a toxic culture.
+
+If you spend part of your working hours learning and studying, you will be part of a continuous learning culture.
 
 With that in mind, let's get on with it!
 
