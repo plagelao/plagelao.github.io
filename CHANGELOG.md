@@ -1,7 +1,8 @@
-## v1.24.0 (2025-01-14)
+## v1.25.0 (2025-02-03)
 
 ### Feat
 
+- **content**: New article on culture change
 - **content**: New article on following through
 - **content**: New article on becoming for effective
 - **content**: New article on deadlines and burnout
