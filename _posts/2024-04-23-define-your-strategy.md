@@ -13,7 +13,7 @@ tools:
 
 Have you ever feel like you're super busy, spending a lot of time and effort, but you're just not making progress against the initiatives that are meaningful to you?
 
-This is a common feeling and the root cause is not being able to define, and follow, your strategy. In a previous articles, you have learned about [the things you do]({% post_url _posts/2024-03-05-the-three-buckets-exercise %}), and you have learned about [how to define your mission]({% post_url _posts/2024-03-26-define-your-mission %}). Now, it's time to translate that mission statement, and the skills and strengths of your team, into a fully defined strategy, so you can spend your time in the things that matter.
+This is a common feeling and the root cause is not being able to define, and follow, your strategy. In a previous articles, you have learned about [the things you do]({% post_url 2024-03-05-the-three-buckets-exercise %}), and you have learned about [how to define your mission]({% post_url 2024-03-26-define-your-mission %}). Now, it's time to translate that mission statement, and the skills and strengths of your team, into a fully defined strategy, so you can spend your time in the things that matter.
 
 With that in mind, let’s get on with it!
 
@@ -39,7 +39,7 @@ This section is about how you can influence your strategy. What do you have to o
 
 This is the type of things where you, your team, or your organisation shine. What do you do that gives you a competitive advantage?
 
-If you look at [the three buckets exercise]({% post_url _posts/2024-03-05-the-three-buckets-exercise %}), this are the things in the first bucket, and maybe some of the second bucket, but mostly first bucket.
+If you look at [the three buckets exercise]({% post_url 2024-03-05-the-three-buckets-exercise %}), this are the things in the first bucket, and maybe some of the second bucket, but mostly first bucket.
 
 
 Some examples of strengths:

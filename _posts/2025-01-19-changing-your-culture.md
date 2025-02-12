@@ -11,7 +11,7 @@ tools:
 
 Your organisation culture is not a set of values in your website. That's a naive assumption. In reality, your actions are what define your culture. It's what you do, not what you think you are.
 
-If you are passive about defining and building your culture, you are at the mercy of random acts. This is really dangerous, because is aimless. You are not working towards a purpose, you are just reacting. You have to be driven and consistent to achieve a culture that reflects your values.
+If you are passive about defining and building your culture, you are at the mercy of random acts. This is really dangerous, because it's aimless. You are not working towards a purpose, you are just reacting. You have to be driven and consistent to achieve a culture that reflects your values.
 
 You need to spend time working on your day to day actions to actively define your culture. One big gesture is not enough, talking about what you want is not enough. Consistently doing, creating habits, being proactive, is how you get there. Your culture **is** your recurring behaviours.
 
@@ -26,7 +26,7 @@ With that in mind, let's get on with it!
 
 <!--more-->
 
-### Identify the change
+## Identify the change
 
 The first thing you need to be clear about is your end goal. What culture trait does your organisation need to adopt or change? It seems obvious, but it's the first step in being proactive about a culture change.
 
@@ -34,7 +34,7 @@ For example, you might want to foster a culture of continuous learning in your o
 
 Usually, this is were most people stop. They identify what they want their culture to be, and then wait for it to magically stick with the people. That's naive. It's very important to know what you want, but you have to be immensely lucky for something to happen without taking any action.
 
-### Start small
+## Start small
 
 Now that you have an end goal, you need to incrementally get there. There are times where big bag changes might work, but more often than not, they don't. There is a reason why so many things are done step by step, not just in one go. Change resistant, inertia, coming back to old habits, breaking with tradition. Big changes are much more challenging than small ones.
 
@@ -46,7 +46,7 @@ The act in itself is not important. Acting towards your goal is what's important
 
 Now, your are proactively working on your organisation culture now. It feels good, but in order for the change to stick, you have to be consistent and keep repeating the action regularly.
 
-### Be consistent until you get buy-in
+## Be consistent until you get buy-in
 
 It feels good. You are starting something, a new movement. You are changing things. Now, you need the rest of the organisation to follow your lead. This is the most time consuming and demotivating part of the process. It's not difficult, though. You just need to be consistent and [follow through]({% post_url 2024-12-17-following-through %}).
 
@@ -67,7 +67,7 @@ That's why it's so important to have a system that helps you with creating new h
 
 Using the previous example again, the danger zone is when you get some people to share links as well, but you don't get a lot of engagement yet. At that point, it's really easy to stop bothering. It looks like, yes, some people are kind of taking your change on, but many others are not really into it. Do you want to spend the time it takes? Would people think you are being a bit tiring? You start doubting yourself and you get a bit demoralise. Now, If you have built your action into a habit, you just do it without thinking about it anymore until it becomes something bigger.
 
-### Step up the game
+## Step up the game
 
 Finally, your first step towards your end goal has been successful. People got it and things are happening. You have affected your organisation's culture.
 

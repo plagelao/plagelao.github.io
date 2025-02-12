@@ -21,7 +21,7 @@ With that in mind, let’s get on with it!
 
 ### Previous mistakes
 
-If you followed the [SWOT analysis from a previous article]({% post_url _posts/2024-04-23-define-your-strategy %}), you could see that the conclusion was mixing both policies, goals, and actions:
+If you followed the [SWOT analysis from a previous article]({% post_url 2024-04-23-define-your-strategy %}), you could see that the conclusion was mixing both policies, goals, and actions:
 
 1. Set strategy for the team
 1. Continuous learning, with a focus on JS, AWS, and UX research

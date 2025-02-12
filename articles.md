@@ -6,15 +6,15 @@ permalink: /articles/
 {% assign sorted = site.categories['Articles'] | sort: 'date' | reverse  %}
 {% for post in sorted %}
   <article>
-    <h3>
+    <h2 class="title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h3>
+    </h2>
     <div class="tags">
       {% for tag in post.tags %}
         <a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
       {% endfor %}
     </div>
-    <p class="date"><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+    <p class="date">{{ post.date | date: "%B %Y" }}</p>
     {{ post.excerpt }}
   </article>
 {% endfor %}

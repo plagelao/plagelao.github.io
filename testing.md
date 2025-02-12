@@ -18,7 +18,7 @@ permalink: /ideas/
         <a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
       {% endfor %}
     </div>
-    <p class="date"><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+    <p class="date">{{ post.date | date: "%B %Y" }}</p>
     {{ post.excerpt }}
   </article>
 {% endfor %}
@@ -45,7 +45,7 @@ Let's learn, grow and create amazing things together.
       <a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
       {% endfor %}
       </div>
-      <p class="date"><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+      <p class="date">{{ post.date | date: "%B %Y" }}</p>
       {{ post.excerpt }}
     </article>
   {% endfor %}
@@ -58,7 +58,7 @@ Let's learn, grow and create amazing things together.
     {% for post in sorted_articles offset:1 limit:10 %}
       <tr>
         <td class="date">
-          <p><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+          <p>{{ post.date | date: "%B %Y" }}</p>
         </td>
         <td class="title">
           <a href="{{ post.url }}">{{ post.title }}</a>
@@ -75,7 +75,7 @@ Let's learn, grow and create amazing things together.
     {% for post in sorted_notes limit:10 %}
       <tr>
         <td class="date">
-          <p><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+          <p>{{ post.date | date: "%B %Y" }}</p>
         </td>
         <td class="title">
           <a href="{{ post.url }}">{{ post.title }}</a>

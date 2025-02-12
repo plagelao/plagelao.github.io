@@ -6,10 +6,10 @@ permalink: /demos/
 {% assign sorted = site.demos | sort: 'date' | reverse  %}
 {% for demo in sorted %}
   <article>
-    <h3>
+    <h2>
       <a href="{{ site.baseurl }}{{ demo.url }}">{{ demo.title }}</a>
-    </h3>
-    <p class="date"><small><strong>{{ post.date | date: "%B %Y" }}</strong></small></p>
+    </h2>
+    <p class="date">{{ demo.date | date: "%B %Y" }}</p>
     {{ demo.excerpt }}
   </article>
 {% endfor %}

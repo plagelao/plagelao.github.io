@@ -21,7 +21,7 @@ With that in mind, let’s get on with it!
 
 Anything that moves you away from the intended course of action outlined by your strategy.
 
-You can find out how to clarify your strategy by checking the previous article on [how to set a mission for your team]({% post_url _posts/2024-03-26-define-your-mission %}), and the one on [how to build a strategy based on that mission]({% post_url _posts/2024-04-23-define-your-strategy %}).
+You can find out how to clarify your strategy by checking the previous article on [how to set a mission for your team]({% post_url 2024-03-26-define-your-mission %}), and the one on [how to build a strategy based on that mission]({% post_url 2024-04-23-define-your-strategy %}).
 
 Distractions can come in various forms, such as unexpected events, competing priorities, or tempting opportunities that arise along the way. They delay progress towards strategic objectives by causing individuals or organizations to deviate from the planned path or lose focus on key priorities.
 

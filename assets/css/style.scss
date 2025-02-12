@@ -11,16 +11,34 @@ $aside-link-color: rgba($highlight-color, 0.7);
 $aside-background-color: white;
 
 .markdown-body {
+  font-weight: 300;
+  font-size: 1.1rem;
+
   &>*:first-child {
     margin-bottom: 0;
   }
 
-  h1, h2 {
+  h1, h2, h3 {
     border-bottom: none;
   }
 
-  img {
-    border-bottom: solid 5px $border-light;
+  h1 {
+    font-size: 4rem;
+    font-weight: lighter;
+  }
+
+  h2 {
+    font-size: 3rem;
+    font-weight: lighter;
+  }
+
+  h3 {
+    font-size: 2rem;
+    font-weight: 200;
+  }
+
+  img, p {
+    max-width: 80ch;
   }
 
   table {
@@ -43,6 +61,7 @@ $aside-background-color: white;
       list-style: none;
       display: inline;
       padding: 0.2rem 0.5rem;
+      font-weight: 300;
 
       &.active, &:hover {
         border-bottom: solid 5px $border-dark;
@@ -68,7 +87,11 @@ $aside-background-color: white;
   }
 
   article {
-    border-bottom: solid 1px $border-light;
+    //border-bottom: solid 1px $border-light;
+
+    .date {
+      font-size: .9rem;
+    }
 
     &:last-child {
       border-bottom: none;
@@ -109,8 +132,10 @@ $aside-background-color: white;
 
   .tag {
     font-size: .8rem;
+    font-weight: 200;
     background-color: $border-light;
-    padding: .25rem .5rem;
+    padding: .5rem .75rem;
+    border-radius: 1rem;
 
     &:hover {
       text-decoration: none;
