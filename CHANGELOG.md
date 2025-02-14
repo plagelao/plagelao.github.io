@@ -1,4 +1,4 @@
-## v1.26.0 (2025-02-14)
+## v1.26.1 (2025-02-14)
 
 ### Feat
 
@@ -30,6 +30,7 @@
 
 ### Fix
 
+- a11y for tags
 - **content**: Fix post reference
 - **landing**: Move data closer to tile for clarity
 
