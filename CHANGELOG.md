@@ -1,7 +1,8 @@
-## v1.26.1 (2025-02-14)
+## v1.27.0 (2025-02-14)
 
 ### Feat
 
+- Remove padding for headers
 - Style changes
 - **content**: New article on culture change
 - **content**: New article on following through
