@@ -1,7 +1,8 @@
-## v1.25.0 (2025-02-03)
+## v1.26.0 (2025-02-14)
 
 ### Feat
 
+- Style changes
 - **content**: New article on culture change
 - **content**: New article on following through
 - **content**: New article on becoming for effective
