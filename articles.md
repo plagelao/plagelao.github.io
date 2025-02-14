@@ -6,7 +6,7 @@ permalink: /articles/
 {% assign sorted = site.categories['Articles'] | sort: 'date' | reverse  %}
 {% for post in sorted %}
   <article>
-    <h2 class="title">
+    <h2>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
     <div class="tags">

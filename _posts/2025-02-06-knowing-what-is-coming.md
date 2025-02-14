@@ -41,15 +41,15 @@ Finding the time to work on your future can be difficult, though. It's really ea
 
 Be strong and just stop doing it. If it causes a problem, come back to it, but most likely, it will be OK. Taking this step is going to give you back enough time to work on what matters to you.
 
-I cannot stress how important this first step is. Taking your time back is what you need as a foundation to build on. Keep checking every week, even every day, if you are wasting your time. If you are, stop it.
+I can't stress how important this first step is. Taking your time back is what you need as a foundation to build on. Keep checking every week, even every day, if you are wasting your time. If you are, stop it.
 
 ## Win-win thinking
 
-Now that you have time, it's time to start thinking about what you want to do.
+Now that you have time, the next step is to start thinking about what you want to do.
 
 Find ways where you get to do what you want to do, while making an impact in your organisation and on others.
 
-## Look for gaps in ownership
+### Look for gaps in ownership
 
 The easiest way to have freedom to work on something, is to find a gap in ownership. If nobody owns it, you can basically do almost anything you want without any resistance. It's an opportunity to experiment and grow.
 
