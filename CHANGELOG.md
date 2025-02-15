@@ -1,4 +1,4 @@
-## v1.27.0 (2025-02-14)
+## v1.27.1 (2025-02-15)
 
 ### Feat
 
@@ -31,6 +31,7 @@
 
 ### Fix
 
+- Tag styling on mobile
 - a11y for tags
 - **content**: Fix post reference
 - **landing**: Move data closer to tile for clarity
