@@ -1,4 +1,4 @@
-## v1.27.1 (2025-02-15)
+## v1.27.2 (2025-02-15)
 
 ### Feat
 
@@ -31,6 +31,7 @@
 
 ### Fix
 
+- Image style on mobile
 - Tag styling on mobile
 - a11y for tags
 - **content**: Fix post reference
