@@ -38,8 +38,12 @@ $aside-background-color: white;
     font-weight: 200;
   }
 
-  img, p {
+  p {
     max-width: 80ch;
+  }
+
+  img {
+    max-width: 100%;
   }
 
   table {
