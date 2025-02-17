@@ -1,7 +1,8 @@
-## v1.27.2 (2025-02-15)
+## v1.28.0 (2025-02-17)
 
 ### Feat
 
+- **content**: New article on owning your future
 - Remove padding for headers
 - Style changes
 - **content**: New article on culture change
