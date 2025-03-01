@@ -24,14 +24,19 @@ permalink: /ideas/
 {% endfor %}
 {% endif %}
 
-<h1> Home </h1>
-<p>
-Hello there! Welcome to my personal corner of the internet.
-</p>
-<p>
-This site is dedicated to your growth and learning in the exciting field of software development. Get ready to master new skills and tackle real-world challenges.
-Let's learn, grow and create amazing things together.
-</p>
+# Home
+
+### Hello there!
+
+Welcome to my personal corner on the internet.
+
+I have this site mostly to spend some time every day understanding things by writing them down. I've found that the act of writing helps me with clarifying my thoughts, my ideas, and my experiences. It's a way for me to find the why behind the what.
+
+The update cadence is one month, because I'm a busy person, like everyone. I do a bit everyday, since I'm a big believer in taking incremental steps, and it usually takes me about one month to get an article ready.
+
+I get a lot of value out of this. I hope you can find something useful here too.
+
+Thanks for reading!
 
 {% assign sorted_articles = site.categories['Articles'] | sort: 'date' | reverse  %}
 
