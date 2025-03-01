@@ -8,6 +8,12 @@ git commit --amend
 git push origin main
 ```
 
+Or just run the script
+
+```
+./update_versioning.sh
+```
+
 ### How to populate the categories
 
 ```
