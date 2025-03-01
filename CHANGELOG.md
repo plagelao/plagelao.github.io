@@ -1,7 +1,9 @@
-## v1.28.0 (2025-02-17)
+## v1.29.0 (2025-03-01)
 
 ### Feat
 
+- **scripting**: Automate version process
+- **content**: Better content for home page
 - **content**: New article on owning your future
 - Remove padding for headers
 - Style changes
