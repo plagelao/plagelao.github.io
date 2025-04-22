@@ -1,7 +1,8 @@
-## v1.29.0 (2025-03-01)
+## v1.30.0 (2025-04-22)
 
 ### Feat
 
+- **content**: New article on do-nothing scripts
 - **scripting**: Automate version process
 - **content**: Better content for home page
 - **content**: New article on owning your future
