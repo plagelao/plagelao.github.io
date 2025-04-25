@@ -2,7 +2,7 @@
 title: Bouncing back into your habits
 excerpt_separator: <!--more-->
 layout: post
-categories: [Drafts, Software development, Effective, Explanations]
+categories: [Articles, Software development, Effective, Explanations]
 tags: [habits, follow through, growth]
 tools:
   - label: "How are habits formed: Modelling habit formation in the real world. Lally's et al"
