@@ -1,4 +1,4 @@
-## v1.31.0 (2025-04-25)
+## v1.31.1 (2025-04-25)
 
 ### Feat
 
@@ -36,6 +36,7 @@
 
 ### Fix
 
+- **content**: Change draft to article
 - Image style on mobile
 - Tag styling on mobile
 - a11y for tags
