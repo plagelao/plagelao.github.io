@@ -1,7 +1,8 @@
-## v1.31.1 (2025-04-25)
+## v1.32.0 (2025-05-01)
 
 ### Feat
 
+- **content**: More personal About page
 - **content**: New article on bouncing back into your habits
 - **content**: New article on do-nothing scripts
 - **scripting**: Automate version process
