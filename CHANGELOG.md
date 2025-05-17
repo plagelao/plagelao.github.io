@@ -1,7 +1,8 @@
-## v1.32.0 (2025-05-01)
+## v1.33.0 (2025-05-17)
 
 ### Feat
 
+- **content**: New article on customer effort score
 - **content**: More personal About page
 - **content**: New article on bouncing back into your habits
 - **content**: New article on do-nothing scripts
