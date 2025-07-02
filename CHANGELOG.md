@@ -1,7 +1,8 @@
-## v1.33.0 (2025-05-17)
+## v1.34.0 (2025-07-02)
 
 ### Feat
 
+- **content**: New article on service level objectives
 - **content**: New article on customer effort score
 - **content**: More personal About page
 - **content**: New article on bouncing back into your habits
